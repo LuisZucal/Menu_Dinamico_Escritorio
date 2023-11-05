@@ -1,0 +1,15 @@
+C:\Users\luisf\source\repos\autenticacion\autenticacion\bin\Debug\autenticacion.exe.config
+C:\Users\luisf\source\repos\autenticacion\autenticacion\bin\Debug\autenticacion.exe
+C:\Users\luisf\source\repos\autenticacion\autenticacion\bin\Debug\autenticacion.pdb
+C:\Users\luisf\source\repos\autenticacion\autenticacion\obj\Debug\autenticacion.csproj.AssemblyReference.cache
+C:\Users\luisf\source\repos\autenticacion\autenticacion\obj\Debug\autenticacion.Form1.resources
+C:\Users\luisf\source\repos\autenticacion\autenticacion\obj\Debug\autenticacion.Properties.Resources.resources
+C:\Users\luisf\source\repos\autenticacion\autenticacion\obj\Debug\autenticacion.csproj.GenerateResource.cache
+C:\Users\luisf\source\repos\autenticacion\autenticacion\obj\Debug\autenticacion.csproj.CoreCompileInputs.cache
+C:\Users\luisf\source\repos\autenticacion\autenticacion\obj\Debug\autenticacion.exe
+C:\Users\luisf\source\repos\autenticacion\autenticacion\obj\Debug\autenticacion.pdb
+C:\Users\luisf\source\repos\autenticacion\autenticacion\obj\Debug\autenticacion.FormAdmin.resources
+C:\Users\luisf\source\repos\autenticacion\autenticacion\bin\Debug\BCrypt.Net.dll
+C:\Users\luisf\source\repos\autenticacion\autenticacion\bin\Debug\BCrypt.Net.pdb
+C:\Users\luisf\source\repos\autenticacion\autenticacion\bin\Debug\BCrypt.Net.xml
+C:\Users\luisf\source\repos\autenticacion\autenticacion\obj\Debug\autenticacion.csproj.CopyComplete
