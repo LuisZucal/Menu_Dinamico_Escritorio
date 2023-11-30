@@ -1,0 +1,13 @@
+C:\Users\luisf\source\repos\Gestion_de_Pacientes\Gestion_de_Pacientes\bin\Debug\Gestion_de_Pacientes.dll
+C:\Users\luisf\source\repos\Gestion_de_Pacientes\Gestion_de_Pacientes\bin\Debug\Gestion_de_Pacientes.pdb
+C:\Users\luisf\source\repos\Gestion_de_Pacientes\Gestion_de_Pacientes\obj\Debug\Gestion_de_Pacientes.csproj.AssemblyReference.cache
+C:\Users\luisf\source\repos\Gestion_de_Pacientes\Gestion_de_Pacientes\obj\Debug\Gestion_de_Pacientes.Citas_y_Agenda.resources
+C:\Users\luisf\source\repos\Gestion_de_Pacientes\Gestion_de_Pacientes\obj\Debug\Gestion_de_Pacientes.Historial_Medico.resources
+C:\Users\luisf\source\repos\Gestion_de_Pacientes\Gestion_de_Pacientes\obj\Debug\Gestion_de_Pacientes.Imagenes_y_Documentos.resources
+C:\Users\luisf\source\repos\Gestion_de_Pacientes\Gestion_de_Pacientes\obj\Debug\Gestion_de_Pacientes.Laboratorio_y_Resultados.resources
+C:\Users\luisf\source\repos\Gestion_de_Pacientes\Gestion_de_Pacientes\obj\Debug\Gestion_de_Pacientes.Medicamentos.resources
+C:\Users\luisf\source\repos\Gestion_de_Pacientes\Gestion_de_Pacientes\obj\Debug\Gestion_de_Pacientes.Registro_de_Pacientes.resources
+C:\Users\luisf\source\repos\Gestion_de_Pacientes\Gestion_de_Pacientes\obj\Debug\Gestion_de_Pacientes.csproj.GenerateResource.cache
+C:\Users\luisf\source\repos\Gestion_de_Pacientes\Gestion_de_Pacientes\obj\Debug\Gestion_de_Pacientes.csproj.CoreCompileInputs.cache
+C:\Users\luisf\source\repos\Gestion_de_Pacientes\Gestion_de_Pacientes\obj\Debug\Gestion_de_Pacientes.dll
+C:\Users\luisf\source\repos\Gestion_de_Pacientes\Gestion_de_Pacientes\obj\Debug\Gestion_de_Pacientes.pdb

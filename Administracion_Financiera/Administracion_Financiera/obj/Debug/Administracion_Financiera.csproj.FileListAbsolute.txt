@@ -1,0 +1,10 @@
+C:\Users\luisf\source\repos\Administracion_Financiera\Administracion_Financiera\bin\Debug\Administracion_Financiera.dll
+C:\Users\luisf\source\repos\Administracion_Financiera\Administracion_Financiera\bin\Debug\Administracion_Financiera.pdb
+C:\Users\luisf\source\repos\Administracion_Financiera\Administracion_Financiera\obj\Debug\Administracion_Financiera.csproj.AssemblyReference.cache
+C:\Users\luisf\source\repos\Administracion_Financiera\Administracion_Financiera\obj\Debug\Administracion_Financiera.Facturacion_y_Pagos.resources
+C:\Users\luisf\source\repos\Administracion_Financiera\Administracion_Financiera\obj\Debug\Administracion_Financiera.Inventario_de_Medicamentos.resources
+C:\Users\luisf\source\repos\Administracion_Financiera\Administracion_Financiera\obj\Debug\Administracion_Financiera.Reservas_de_Productos.resources
+C:\Users\luisf\source\repos\Administracion_Financiera\Administracion_Financiera\obj\Debug\Administracion_Financiera.csproj.GenerateResource.cache
+C:\Users\luisf\source\repos\Administracion_Financiera\Administracion_Financiera\obj\Debug\Administracion_Financiera.csproj.CoreCompileInputs.cache
+C:\Users\luisf\source\repos\Administracion_Financiera\Administracion_Financiera\obj\Debug\Administracion_Financiera.dll
+C:\Users\luisf\source\repos\Administracion_Financiera\Administracion_Financiera\obj\Debug\Administracion_Financiera.pdb

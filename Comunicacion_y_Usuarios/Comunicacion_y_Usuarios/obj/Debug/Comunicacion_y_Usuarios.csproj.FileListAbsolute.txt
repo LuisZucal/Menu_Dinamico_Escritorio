@@ -1,0 +1,11 @@
+C:\Users\luisf\source\repos\Comunicacion_y_Usuarios\Comunicacion_y_Usuarios\bin\Debug\Comunicacion_y_Usuarios.dll
+C:\Users\luisf\source\repos\Comunicacion_y_Usuarios\Comunicacion_y_Usuarios\bin\Debug\Comunicacion_y_Usuarios.pdb
+C:\Users\luisf\source\repos\Comunicacion_y_Usuarios\Comunicacion_y_Usuarios\obj\Debug\Comunicacion_y_Usuarios.csproj.AssemblyReference.cache
+C:\Users\luisf\source\repos\Comunicacion_y_Usuarios\Comunicacion_y_Usuarios\obj\Debug\Comunicacion_y_Usuarios.Administracion_de_Usuario.resources
+C:\Users\luisf\source\repos\Comunicacion_y_Usuarios\Comunicacion_y_Usuarios\obj\Debug\Comunicacion_y_Usuarios.Comunicacion_Cliente_Veterinario.resources
+C:\Users\luisf\source\repos\Comunicacion_y_Usuarios\Comunicacion_y_Usuarios\obj\Debug\Comunicacion_y_Usuarios.Integracion_con_Equipos_Medicos.resources
+C:\Users\luisf\source\repos\Comunicacion_y_Usuarios\Comunicacion_y_Usuarios\obj\Debug\Comunicacion_y_Usuarios.Sistema_de_Alertas.resources
+C:\Users\luisf\source\repos\Comunicacion_y_Usuarios\Comunicacion_y_Usuarios\obj\Debug\Comunicacion_y_Usuarios.csproj.GenerateResource.cache
+C:\Users\luisf\source\repos\Comunicacion_y_Usuarios\Comunicacion_y_Usuarios\obj\Debug\Comunicacion_y_Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\luisf\source\repos\Comunicacion_y_Usuarios\Comunicacion_y_Usuarios\obj\Debug\Comunicacion_y_Usuarios.dll
+C:\Users\luisf\source\repos\Comunicacion_y_Usuarios\Comunicacion_y_Usuarios\obj\Debug\Comunicacion_y_Usuarios.pdb

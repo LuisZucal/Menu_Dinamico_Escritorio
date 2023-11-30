@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{52BF673D-8B59-45BF-9E95-601919A8C0C2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Gestion_de_Pacientes</RootNamespace>
+    <AssemblyName>Gestion_de_Pacientes</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Citas_y_Agenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Citas_y_Agenda.Designer.cs">
+      <DependentUpon>Citas_y_Agenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Historial_Medico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Historial_Medico.Designer.cs">
+      <DependentUpon>Historial_Medico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Imagenes_y_Documentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Imagenes_y_Documentos.Designer.cs">
+      <DependentUpon>Imagenes_y_Documentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Laboratorio_y_Resultados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Laboratorio_y_Resultados.Designer.cs">
+      <DependentUpon>Laboratorio_y_Resultados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medicamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medicamentos.Designer.cs">
+      <DependentUpon>Medicamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registro_de_Pacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro_de_Pacientes.Designer.cs">
+      <DependentUpon>Registro_de_Pacientes.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Citas_y_Agenda.resx">
+      <DependentUpon>Citas_y_Agenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Historial_Medico.resx">
+      <DependentUpon>Historial_Medico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagenes_y_Documentos.resx">
+      <DependentUpon>Imagenes_y_Documentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laboratorio_y_Resultados.resx">
+      <DependentUpon>Laboratorio_y_Resultados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medicamentos.resx">
+      <DependentUpon>Medicamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registro_de_Pacientes.resx">
+      <DependentUpon>Registro_de_Pacientes.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
