@@ -2,13 +2,15 @@
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
-using BCrypt.Net; // Asegúrate de importar la biblioteca BCrypt.Net
+using System.Configuration;
+
+using BCrypt.Net; 
 
 namespace autenticacion
 {
     public partial class Form1 : Form
     {
-        // Cadena de conexión a la base de datos
+        // cadena de conexión
         string connectionString = "Server=DESKTOP-0NF1K3O\\SQLEXPRESS;Database=autenticacion;User ID=sa;Password=admin12345";
 
         public Form1()
@@ -32,6 +34,19 @@ namespace autenticacion
             {
                 MessageBox.Show("Inicio de sesión exitoso");
                 // Aquí puedes continuar con la lógica de tu aplicación después del inicio de sesión exitoso.
+                // Abre el formulario FormMenu
+                // Obtener el nombre de la empresa y el rol
+                string nombreEmpresa = ObtenerNombreEmpresaAsociada(nombreUsuario);
+                string nombreRol = "";  // Ingresar el rol que corresponda 
+
+
+                FormMenu formMenu = new FormMenu(nombreUsuario, nombreEmpresa, nombreRol);
+                formMenu.Show();
+
+                // Oculta el formulario actual (Form1)
+                this.Hide();
+
+
             }
             else
             {
@@ -142,6 +157,7 @@ namespace autenticacion
             this.Close(); // Cierra el formulario actual (Form1).
 
         }
+        
     }
 }
 

@@ -76,32 +76,7 @@ namespace autenticacion
             }
         }
 
-        // Método para obtener la contraseña cifrada de la base de datos
-        private string ObtenerContrasenaCifradaDelUsuario(string nombreUsuario)
-        {
-            string hashedPassword = null; // Inicializa con null o un valor predeterminado si es necesario
-
-            using (SqlConnection connection = new SqlConnection(connectionString))
-            {
-                connection.Open();
-
-                string query = "SELECT Contraseña FROM Usuarios WHERE NombreUsuario = @NombreUsuario";
-                using (SqlCommand cmd = new SqlCommand(query, connection))
-                {
-                    cmd.Parameters.AddWithValue("@NombreUsuario", nombreUsuario);
-                    object result = cmd.ExecuteScalar();
-
-                    if (result != null && result != DBNull.Value)
-                    {
-                        hashedPassword = result.ToString(); // Aquí obtienes la contraseña cifrada desde la base de datos
-                    }
-                }
-            }
-
-            return hashedPassword;
-        }
-        
-
+      
 
         private int ObtenerIDEmpresaPorNombre(string nombreEmpresa)
         {
@@ -152,6 +127,7 @@ namespace autenticacion
             txtNuevoNombreUsuario.Clear();
             txtNuevaContrasena.Clear();
             chkNuevoHabilitado.Checked = false;
+           
         }
 
         private void btnVolver_Click(object sender, EventArgs e)
